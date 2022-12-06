@@ -1,1 +1,1 @@
-# MFTI-Final-Project-1-semester
+# MFTI-Deep-Learning-Final-Project-1-semester
